@@ -1,3 +1,3 @@
 # Scraping
 
-Scraping for items on various sites (BestBuy atm) to see prices.
+Scraping for items on various sites like BestBuy to see prices and potential savings for wanted items.
